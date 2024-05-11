@@ -8,3 +8,8 @@ docker buildx build -t skowyrab/pch_labs:zadanie1_dod --platform linux/amd64,lin
 2. Polecenie uruchomienia kontenera
 
 docker run -d -p 8080:3000 skowyrab/pch_labs:zadanie1_dod
+
+3. 
+- Zrzut ekranu przedstawiający aktualnie wykorzystywany builder dołączony do repozytorium jako builder.png
+- Zrzut ekranu potwierdzający prawidłowe działanie aplikacji (Healthcheck) dołączony do repozytorium jako aplikacja_dod.png
+  
